@@ -1,0 +1,68 @@
+.formulario {
+
+
+    border: 2px solid  #055e64;
+    margin-top: 10%;
+    padding: 50px;
+    margin-left: 25%;
+    width: 50%;
+
+}
+
+
+.form {
+
+    
+    text-align: left;
+
+}
+
+.h1 {
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#055e64 ;
+}
+
+.button {
+
+    display: flex;
+    justify-content: center;
+    background-color:#9fc48a;
+    border: 3px solid #9fc48a;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+
+}
+
+.button:hover {
+    cursor: pointer;
+
+    background-color: #47722e;
+}
+
+
+
+.botao {
+
+    display: flex;
+    justify-content: center;
+}
+
+
+.dados {
+
+    border: 3px solid #e5f4f6;
+    width: 100%;
+    height: 20px;
+    border-radius: 4px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.label {
+    
+    text-align: aut;
+    color: #055e64;
+}
